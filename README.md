@@ -4,7 +4,7 @@ Comprehensive test suite for trailing comma support in rust macros.
 
 [Read the source here.](https://github.com/ExpHP/rust-macro-comma-test/blob/master/src/main.rs)
 
-The `//~` tags in the source denote the compiler output on the latest version that this test was run (beta channel, the day before the 1.22 release). They **do not** actually do anything, and they most certainly do not represent the desired compiler output.  (If you want to try seeing what happens if you stick this file in `rust/test/compile-fail`, though, be my guest.)
+The `//~` tags in the source denote the compiler output on the latest version that this test was run (beta channel, the day before the 1.22 release). They **do not** actually do anything, and they most certainly do not represent the desired compiler output.  (If you want to try seeing what happens if you stick this file in `rust-lang/rust/src/test/compile-fail`, though, be my guest.)
 
 If you want to run the test:
 
