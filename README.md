@@ -1,6 +1,6 @@
 # `rust-macro-comma-test`
 
-Comprehensive test suite for trailing comma support in rust macros.
+Comprehensive test suite for trailing comma support in macros provided by `std`.
 
 [Read the source here.](https://github.com/ExpHP/rust-macro-comma-test/blob/master/src/main.rs)
 
